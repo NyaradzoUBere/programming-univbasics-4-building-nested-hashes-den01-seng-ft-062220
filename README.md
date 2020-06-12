@@ -1,4 +1,4 @@
-# Building Nested Hashes Lab
+           # Building Nested Hashes Lab
 
 ## Learning Goals
 
@@ -14,7 +14,7 @@ or "inner" `Hash`es might _themselves_ contain `Hash`es.
 
 As a reminder, this might look like:
 
-```ruby
+ruby
 # Greatly abbreviated!
 countries_and_capitals_of_the_world = {
   :north_america => {
